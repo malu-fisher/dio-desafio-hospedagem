@@ -11,14 +11,16 @@ Este é um projeto simples para gerenciar reservas de suítes em um sistema de h
 
 📁 Estrutura do Projeto 
  
+```text
 DesafioSistemaDeHospedagem/
-├── Models
+├── Models/
 │   ├── Pessoa.cs
 │   ├── Reserva.cs
 │   └── Suite.cs
 ├── DesafioSistemaDeHospedagem.csproj
 ├── Program.cs
 └── README.md
+
  
  
 ✅ Tecnologias Utilizadas 
